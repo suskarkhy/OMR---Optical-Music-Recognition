@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="container d-flex flex-column justify-content-center align-items-center">
+    <h3>Test Cases</h3>
+<div class="container d-flex flex-column justify-content-cneter align-items-center" id="output">
+    {% for ormidi_url, img_url, midi_url in imidis %}
+        <div class="my-2" style="border: 2px solid black; border-radius: 5px; overflow:hidden;">
+            <midi-player src={{ ormidi_url }} sound-font></midi-player>
+            <img class="img-fluid" style="width:60vh;" src={{ img_url }}>
+            <midi-player src={{ midi_url }} sound-font></midi-player>
+        </div>
+    {% endfor %}
+
+</div>
+{% endblock %}
