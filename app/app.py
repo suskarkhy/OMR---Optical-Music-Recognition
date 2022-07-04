@@ -7,11 +7,6 @@ from OMR import OMR
 app = Flask(__name__, static_url_path='/static')
 
 
-
-
-
-
-
 @app.route("/", methods=["GET","POST"])
 @app.route("/omr", methods=["GET","POST"])
 def omr_page():
