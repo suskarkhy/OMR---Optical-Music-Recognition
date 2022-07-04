@@ -1,3 +1,9 @@
 # OMR---Optical-Music-Recognition
 
-this is a simple OMR project.
+This is a simple OMR project. Check out the PDF paper for the steps.
+
+you need the following libraries:
+    * OpenCV
+    * MIDIUtil
+    * Numpy
+    * matplotlib
