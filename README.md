@@ -1,6 +1,8 @@
 # OMR---Optical-Music-Recognition
 
-![](app/images/170000291-1_1_1.png)
+![](app/static/upload_files/img_5.png)
+![](app/static/upload_files/img_6.png)
+![](app/static/upload_files/img_7.png)
 
 This is a simple OMR project. Check out the PDF paper for the steps.
 
