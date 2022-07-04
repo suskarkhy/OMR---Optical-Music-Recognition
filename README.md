@@ -10,7 +10,7 @@ you need the following libraries:
     * Numpy
     * matplotlib
     
-*in your command line type:
+in your command line type:
 * 'git clone https://github.com/suskarkhy/OMR---Optical-Music-Recognition.git'
 * then cd to the directory then type:
 * 'python app.py'
