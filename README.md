@@ -15,7 +15,6 @@ in your command line type:
 * then cd to the app folder and type:
 * 'python app.py'
 
+The PrIMuS dataset was used for this OMR system. https://grfia.dlsi.ua.es/primus/
     
 For any questions, feel free to contact me.
-
-
