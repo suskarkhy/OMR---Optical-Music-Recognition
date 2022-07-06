@@ -12,7 +12,7 @@ you need the following libraries:
     
 in your command line type:
 * 'git clone https://github.com/suskarkhy/OMR---Optical-Music-Recognition.git'
-* then cd to the directory then type:
+* then cd to the app folder and type:
 * 'python app.py'
 
     
